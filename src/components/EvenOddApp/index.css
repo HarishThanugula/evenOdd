@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.count-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 400px;
+  width: 400px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  background-color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 8px;
+  width: 100px;
+  border: none;
+}
+.paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+}
